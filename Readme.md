@@ -10,8 +10,6 @@
 
 🎓 B.Tech in Computer Science (2024)  
 💻 Full Stack Developer | Data Enthusiast | Tech Educator  
-📍 Based in Puducherry, India
-
 ---
 
 ## 💼 Professional Summary
@@ -83,13 +81,6 @@ I’m a passionate and adaptable developer who enjoys building modern web interf
 
 **Frontend Developer | Hacker India Pvt Ltd (2021 - 2022)**  
 - Developed dynamic web pages and collaborated with design teams
-
----
-
-## 🗣️ Languages
-
-- **Tamil** – Native  
-- **English** – Proficient
 
 ---
 
