@@ -1,5 +1,9 @@
 ## 👋 Hey there, I'm Ashwin G
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+</p>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+Trainer" />
 </h3>
