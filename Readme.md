@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+Trainer" />
 </h3>
 
-<p align="right">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlqOTlxNHB3NnlxMDJsaHZsN2c4amRyaHMwbDI2dWpuN2lsa3JpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)" width="500" alt="Coding GIF">
+<p align="right" width="300" height="200" >
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlqOTlxNHB3NnlxMDJsaHZsN2c4amRyaHMwbDI2dWpuN2lsa3JpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Creative Developer GIF" />
 </p>
 
 🎓 B.Tech in Computer Science (2024)  
