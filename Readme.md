@@ -1,12 +1,11 @@
 ## 👋 Hey there, I'm Ashwin G
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+Trainer" />
-</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlqOTlxNHB3NnlxMDJsaHZsN2c4amRyaHMwbDI2dWpuN2lsa3JpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Creative Developer GIF" />
 </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+Trainer" />
+</h3>
 
 🎓 B.Tech in Computer Science (2024)  
 💻 Full Stack Developer | Data Enthusiast | Tech Educator  
