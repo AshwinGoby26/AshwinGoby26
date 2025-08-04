@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Ashwin G
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+Trainer+%7C+Tech+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+Trainer" />
 </h3>
 
 🎓 B.Tech in Computer Science (2024)  
